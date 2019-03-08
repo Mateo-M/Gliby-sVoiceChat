@@ -1,3 +1,5 @@
+## This updated fork was created by ivasik78 at https://gitlab.com/Ivasik78/GlibysVoiceChat
+
 ## Gliby's Voice Chat Reloaded
 Not official port for 1.8.9-1.12.2.
 
